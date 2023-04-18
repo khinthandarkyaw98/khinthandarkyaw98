@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khinthandarkyaw98&label=Profile%20views&color=0e75b6&style=flat" alt="khinthandarkyaw98" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@khinthanderkyaw2014](https://medium.com/@khinthanderkyaw2014)
+- 📝 I sometimes write articles on [https://medium.com/@khinthanderkyaw2014](https://medium.com/@khinthanderkyaw2014)
 
 - 💬 Ask me about **Python**
 
