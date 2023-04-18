@@ -7,8 +7,6 @@
 
 - 📝 I sometimes write articles on [https://medium.com/@khinthanderkyaw2014](https://medium.com/@khinthanderkyaw2014)
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **khinthanderkyaw1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
