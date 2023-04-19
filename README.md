@@ -6,23 +6,17 @@
   <img src="https://komarev.com/ghpvc/?username=khinthandarkyaw98&label=Profile%20views&color=0e75b6&style=flat" alt="khinthandarkyaw98" /> 
 </p>
 
-<div style="display: flex;">
-  <p style="margin-right: 20px;">
-    <img align="center"
+<div align="center">
+  <img align="center" height="150"
     src="https://github-readme-stats.vercel.app/api/pin/?username=khinthandarkyaw98&repo=Optimizing-UAV-trajectory-for-maximum-data-rate-via-Q-Learning&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="khinthandarkyaw98-repo" />
-  </p>
-  
-  <p>
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khinthandarkyaw98&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="khinthandarkyaw98" />
-  </p>
+  <img align="center" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khinthandarkyaw98&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="khinthandarkyaw98" />
 </div>
 
+<br/>
 
-<p>
+<div align="center">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khinthandarkyaw98&theme=nightowl&show_icons=true&locale=en" alt="khinthandarkyaw98" />
-</p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khinthandarkyaw98&theme=tokyonight" alt="khinthandarkyaw98" />
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khinthandarkyaw98&theme=tokyonight" alt="khinthandarkyaw98" />
-</p>
