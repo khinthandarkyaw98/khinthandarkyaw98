@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khinthandarkyaw98&theme=nightowl&show_icons=true&locale=en" alt="khinthandarkyaw98" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khinthandarkyaw98&theme=tokyonight" alt="khinthandarkyaw98" />
+  <img align="center" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khinthandarkyaw98&theme=nightowl&show_icons=true&locale=en" alt="khinthandarkyaw98" />
+  <img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=khinthandarkyaw98&theme=tokyonight" alt="khinthandarkyaw98" />
 </div>
 
