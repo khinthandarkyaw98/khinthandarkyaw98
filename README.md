@@ -10,7 +10,7 @@
   <! --img align="center" height="150"
     src="https://github-readme-stats.vercel.app/api/pin/?username=khinthandarkyaw98&repo=Optimizing-UAV-trajectory-for-maximum-data-rate-via-Q-Learning&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="khinthandarkyaw98-repo" -->
-  <img align="center" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khinthandarkyaw98&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="khinthandarkyaw98" />
+  <! --img align="center" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khinthandarkyaw98&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="khinthandarkyaw98" -->
 </div>
 
 <br/>
