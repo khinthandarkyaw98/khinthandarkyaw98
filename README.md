@@ -1,6 +1,7 @@
-<p align="left">
-  <! --img src="https://komarev.com/ghpvc/?username=khinthandarkyaw98&label=Profile%20views&color=0e75b6&style=flat" alt="khinthandarkyaw98" /--> 
-</p>
+[![MasterHead](https://i.pinimg.com/originals/40/31/ab/4031abad70acc46069766c4c7a228bef.gif)](https://khinthandarkyaw98.io)
+ <h1 align="center">Hi 👋🏻, I'm Khin Thandar Kyaw</h1>
+ <h3 align="center">A Student Engineer</h3>
+
 
 <div align="center">
   <! --img align="center" height="150"
