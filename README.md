@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/40/31/ab/4031abad70acc46069766c4c7a228bef.gif)](https://khinthandarkyaw98.io)
+<!--[![MasterHead](https://i.pinimg.com/originals/40/31/ab/4031abad70acc46069766c4c7a228bef.gif)](https://khinthandarkyaw98.io)-->
  <h1 align="center">Hi 👋🏻, I'm Khin Thandar Kyaw</h1>
  <h3 align="center">A Student Engineer</h3>
 
