@@ -13,7 +13,8 @@
 <br/>
 
 <div align="center">
-  <img align="center" width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khinthandarkyaw98&theme=nightowl&show_icons=true&locale=en" alt="khinthandarkyaw98" />
+  <img align="center" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khinthandarkyaw98&theme=nightowl&show_icons=true&locale=en" alt="khinthandarkyaw98" />
   <!--img align="center" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=khinthandarkyaw98&theme=tokyonight" alt="khinthandarkyaw98" /-->
+ <!--img width = "20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khinthandarkyaw98&layout=donut-vertical" /-->
 </div>
 
