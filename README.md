@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Khin%20Thandar%20Kyaw&fontSize=90)
-
- <h3 align="center">A Student Engineer</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=400&text=Khin%20Thandar%20Kyaw&desc=A%20Student%20Engineer&animation=blinking&fontColor=#03d3f)
 
 
 <br/>
