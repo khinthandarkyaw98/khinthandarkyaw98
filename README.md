@@ -2,19 +2,12 @@
  <h1 align="center">Hi 👋🏻, I'm Khin Thandar Kyaw</h1>
  <h3 align="center">A Student Engineer</h3>
 
-
-<div align="center">
-  <! --img align="center" height="150"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=khinthandarkyaw98&repo=Optimizing-UAV-trajectory-for-maximum-data-rate-via-Q-Learning&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="khinthandarkyaw98-repo" -->
-  <! --img align="center" height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khinthandarkyaw98&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="khinthandarkyaw98" -->
-</div>
-
 <br/>
 
-<div align="center">
-  <img align="center" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khinthandarkyaw98&theme=nightowl&show_icons=true&locale=en" alt="khinthandarkyaw98">
-  <!--img align="center" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=khinthandarkyaw98&theme=tokyonight" alt="khinthandarkyaw98" /-->
- <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khinthandarkyaw98&layout=donut&theme=nightowl" />
-</div-->
 
+<div align="center">
+
+  | <a href="https://github-readme-stats.vercel.app/api?username=khinthandarkyaw98&show_icons=true&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khinthandarkyaw98&show_icons=true&theme=gruvbox&hide_border=true" alt="khinthandarkyaw98's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khinthandarkyaw98&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+</div>
