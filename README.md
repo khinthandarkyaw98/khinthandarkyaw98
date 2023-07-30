@@ -1,7 +1,11 @@
-<!--[![MasterHead](https://i.pinimg.com/originals/40/31/ab/4031abad70acc46069766c4c7a228bef.gif)](https://khinthandarkyaw98.io)-->
- <h1 align="center">Hi 👋🏻, I'm Khin Thandar Kyaw</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Khin%20Thandar%20Kyaw&fontSize=90)
+
  <h3 align="center">A Student Engineer</h3>
 
+
+<br/>
+<br/>
+<br/>
 <br/>
 
 
