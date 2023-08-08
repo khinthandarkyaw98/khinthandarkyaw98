@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=400&text=Khin%20Thandar%20Kyaw&desc=A%20Student%20Engineer&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,3,20&height=400&text=Khin%20Thandar%20Kyaw&desc=A%20Student%20Engineer&animation=blinking)
 
 <div align="center">
 
