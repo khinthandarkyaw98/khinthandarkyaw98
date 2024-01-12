@@ -1,12 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,3,20&height=400&text=Khin%20Thandar%20Kyaw&desc=A%20Student%20Engineer&animation=blinking)
+> [!NOTE]
+> :woman_technologist: currently working on **downlink beamforming**, **reconfigurable intelligent surfaces**, and **deep neural networks**
 
+<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,3,20&height=400&text=Khin%20Thandar%20Kyaw&desc=A%20Student%20Engineer&animation=blinking)
+-->
 <!--div align="center">
 
   | <a href="https://github-readme-stats.vercel.app/api?username=khinthandarkyaw98&show_icons=true&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khinthandarkyaw98&show_icons=true&theme=gruvbox&hide_border=true" alt="khinthandarkyaw98's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khinthandarkyaw98&layout=compact&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div-->
-
+<!--
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
@@ -34,3 +38,4 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ---
+-->
