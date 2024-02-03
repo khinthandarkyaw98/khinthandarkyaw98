@@ -1,5 +1,6 @@
 > [!NOTE]
 > :woman_technologist: currently working on **downlink beamforming**, **reconfigurable intelligent surfaces**, and **deep neural networks**
+> :brain: actively learning and polishing my skillsets in my spare time
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,3,20&height=400&text=Khin%20Thandar%20Kyaw&desc=A%20Student%20Engineer&animation=blinking)
