@@ -1,17 +1,17 @@
-name: Update Waka Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" 
-    
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
-      - name: Update Waka Readme
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
