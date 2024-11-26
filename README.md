@@ -1,23 +1,23 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2024 - To: 24 November 2024
+From: 13 February 2024 - To: 25 November 2024
 
-Total Time: 758 hrs 27 mins
+Total Time: 761 hrs 53 mins
 
-Python           561 hrs 57 mins >>>>>>>>>>>>>>>>>>>------   74.09 %
-Java             87 hrs 45 mins  >>>----------------------   11.57 %
-Other            23 hrs 13 mins  >------------------------   03.06 %
-Markdown         19 hrs 24 mins  >------------------------   02.56 %
-JSON             11 hrs 43 mins  -------------------------   01.55 %
-Text             9 hrs 49 mins   -------------------------   01.29 %
-TypeScript       9 hrs           -------------------------   01.19 %
-JavaScript       7 hrs 51 mins   -------------------------   01.04 %
-Bash             6 hrs 47 mins   -------------------------   00.89 %
+Python           563 hrs 29 mins >>>>>>>>>>>>>>>>>>-------   73.96 %
+Java             87 hrs 45 mins  >>>----------------------   11.52 %
+Other            23 hrs 13 mins  >------------------------   03.05 %
+Markdown         19 hrs 28 mins  >------------------------   02.56 %
+JSON             13 hrs 1 min    -------------------------   01.71 %
+Text             9 hrs 50 mins   -------------------------   01.29 %
+TypeScript       9 hrs           -------------------------   01.18 %
+JavaScript       7 hrs 51 mins   -------------------------   01.03 %
+Bash             6 hrs 57 mins   -------------------------   00.91 %
 CSS              5 hrs 55 mins   -------------------------   00.78 %
 CSV              4 hrs 37 mins   -------------------------   00.61 %
-Git Config       3 hrs 56 mins   -------------------------   00.52 %
-HTML             3 hrs 25 mins   -------------------------   00.45 %
+Git Config       4 hrs 12 mins   -------------------------   00.55 %
+HTML             3 hrs 30 mins   -------------------------   00.46 %
 YAML             1 hr 6 mins     -------------------------   00.15 %
 PostScript       35 mins         -------------------------   00.08 %
 GitIgnore file   18 mins         -------------------------   00.04 %
