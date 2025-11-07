@@ -1,22 +1,22 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 05 November 2025
+From: 14 February 2024 - To: 06 November 2025
 
-Total Time: 953 hrs 30 mins
+Total Time: 953 hrs 50 mins
 
-Python           724 hrs 8 mins  >>>>>>>>>>>>>>>>>>>------   75.94 %
+Python           724 hrs 28 mins >>>>>>>>>>>>>>>>>>>------   75.95 %
 Java             87 hrs 48 mins  >>-----------------------   09.21 %
 Other            26 hrs 36 mins  >------------------------   02.79 %
 Markdown         21 hrs 14 mins  >------------------------   02.23 %
 Text             16 hrs 26 mins  -------------------------   01.72 %
 Bash             16 hrs 11 mins  -------------------------   01.70 %
 JSON             13 hrs 9 mins   -------------------------   01.38 %
-TypeScript       9 hrs           -------------------------   00.95 %
+TypeScript       9 hrs           -------------------------   00.94 %
 JavaScript       8 hrs 5 mins    -------------------------   00.85 %
 HTML             7 hrs 43 mins   -------------------------   00.81 %
 CSS              6 hrs           -------------------------   00.63 %
-Git Config       5 hrs 46 mins   -------------------------   00.61 %
+Git Config       5 hrs 46 mins   -------------------------   00.60 %
 CSV              5 hrs 3 mins    -------------------------   00.53 %
 YAML             2 hrs 22 mins   -------------------------   00.25 %
 PostScript       49 mins         -------------------------   00.09 %
