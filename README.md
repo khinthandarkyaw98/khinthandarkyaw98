@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 28 December 2025
+From: 14 February 2024 - To: 29 December 2025
 
-Total Time: 959 hrs 2 mins
+Total Time: 960 hrs 16 mins
 
-Python           728 hrs 56 mins >>>>>>>>>>>>>>>>>>>------   76.01 %
-Java             87 hrs 48 mins  >>-----------------------   09.16 %
-Other            26 hrs 36 mins  >------------------------   02.78 %
-Markdown         21 hrs 42 mins  >------------------------   02.26 %
+Python           730 hrs 5 mins  >>>>>>>>>>>>>>>>>>>------   76.03 %
+Java             87 hrs 48 mins  >>-----------------------   09.14 %
+Other            26 hrs 36 mins  >------------------------   02.77 %
+Markdown         21 hrs 46 mins  >------------------------   02.27 %
 Text             16 hrs 31 mins  -------------------------   01.72 %
 Bash             16 hrs 11 mins  -------------------------   01.69 %
 JSON             13 hrs 11 mins  -------------------------   01.37 %
